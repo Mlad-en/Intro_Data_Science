@@ -12,6 +12,7 @@ jupyter = "*"
 fastparquet = "*"
 spacy = "*"
 bertopic = {extras = ["spacy"], version = "*"}
+openpyxl = "*"
 
 [dev-packages]
 
