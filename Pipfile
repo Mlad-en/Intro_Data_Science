@@ -13,6 +13,12 @@ fastparquet = "*"
 spacy = "*"
 bertopic = {extras = ["spacy"], version = "*"}
 openpyxl = "*"
+accelerate = "*"
+bitsandbytes = "*"
+ctransformers = "*"
+nltk = "*"
+scipy = "*"
+plotly = "*"
 
 [dev-packages]
 
